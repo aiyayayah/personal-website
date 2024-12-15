@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  height: 100vh;
+  background: #D6C9C5;
+  color: #353434;
+  font-family: "Caveat", cursive;
+}
+
